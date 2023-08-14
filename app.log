@@ -1,0 +1,6 @@
+2023-08-04 16:20:08.859  INFO 16660 --- [main] com.nt.MessageApp01ApplicationTests      : Starting MessageApp01ApplicationTests using Java 1.8.0_301 on DESKTOP-7B88PP7 with PID 16660 (started by Narasimhaprasad B in E:\SpringBoot\NTSBMS615\SpringBoot_Rest-MS\MessageApp01)
+2023-08-04 16:20:08.878  INFO 16660 --- [main] com.nt.MessageApp01ApplicationTests      : No active profile set, falling back to 1 default profile: "default"
+2023-08-04 16:20:12.205  INFO 16660 --- [main] com.nt.MessageApp01ApplicationTests      : Started MessageApp01ApplicationTests in 4.113 seconds (JVM running for 7.506)
+2023-08-04 16:23:34.768  INFO 7888 --- [main] com.nt.MessageApp01ApplicationTests      : Starting MessageApp01ApplicationTests using Java 1.8.0_301 on DESKTOP-7B88PP7 with PID 7888 (started by Narasimhaprasad B in E:\SpringBoot\NTSBMS615\SpringBoot_Rest-MS\MessageApp01)
+2023-08-04 16:23:34.783  INFO 7888 --- [main] com.nt.MessageApp01ApplicationTests      : No active profile set, falling back to 1 default profile: "default"
+2023-08-04 16:23:37.689  INFO 7888 --- [main] com.nt.MessageApp01ApplicationTests      : Started MessageApp01ApplicationTests in 3.334 seconds (JVM running for 4.931)

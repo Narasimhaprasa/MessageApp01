@@ -1,0 +1,83 @@
+2022-08-17 11:23:27.927  INFO 18576 --- [main] com.nt.MessageApp01Application           : Starting MessageApp01Application using Java 15.0.2 on DESKTOP-7B88PP7 with PID 18576 (E:\SpringBoot\NTSBMS615\SpringBoot_Rest-MS\MessageApp01\target\classes started by Narasimhaprasad B in E:\SpringBoot\NTSBMS615\SpringBoot_Rest-MS\MessageApp01)
+2022-08-17 11:23:27.932  INFO 18576 --- [main] com.nt.MessageApp01Application           : No active profile set, falling back to 1 default profile: "default"
+2022-08-17 11:23:29.365  INFO 18576 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 4343 (http)
+2022-08-17 11:23:29.378  INFO 18576 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-08-17 11:23:29.379  INFO 18576 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-08-17 11:23:29.503  INFO 18576 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-08-17 11:23:29.503  INFO 18576 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1452 ms
+2022-08-17 11:23:30.023  INFO 18576 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 4343 (http) with context path ''
+2022-08-17 11:23:30.037  INFO 18576 --- [main] com.nt.MessageApp01Application           : Started MessageApp01Application in 2.618 seconds (JVM running for 3.195)
+2022-08-17 11:23:57.843  INFO 18576 --- [http-nio-4343-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-08-17 11:23:57.849  INFO 18576 --- [http-nio-4343-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-08-17 11:23:57.860  INFO 18576 --- [http-nio-4343-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 10 ms
+2022-08-17 11:23:57.903  INFO 18576 --- [http-nio-4343-exec-1] c.n.c.MessageOpertionsController         : Method Execution is Started
+2022-08-17 11:23:57.903  INFO 18576 --- [http-nio-4343-exec-1] c.n.c.MessageOpertionsController         : Method Execution is ended
+2022-08-17 11:24:16.580  INFO 18576 --- [http-nio-4343-exec-2] c.nt.controller.WishOpertionsController  : Method execution is started.
+2022-08-17 11:24:16.581  INFO 18576 --- [http-nio-4343-exec-2] c.nt.controller.WishOpertionsController  : Method Execution is ended.
+2022-08-17 11:24:21.567  INFO 18576 --- [http-nio-4343-exec-3] c.n.c.MessageOpertionsController         : Method Execution is Started
+2022-08-17 11:24:21.568  INFO 18576 --- [http-nio-4343-exec-3] c.n.c.MessageOpertionsController         : Method Execution is ended
+2022-08-17 11:24:22.235  INFO 18576 --- [http-nio-4343-exec-4] c.n.c.MessageOpertionsController         : Method Execution is Started
+2022-08-17 11:24:22.236  INFO 18576 --- [http-nio-4343-exec-4] c.n.c.MessageOpertionsController         : Method Execution is ended
+2022-08-17 11:24:25.100  INFO 18576 --- [http-nio-4343-exec-5] c.nt.controller.WishOpertionsController  : Method execution is started.
+2022-08-17 11:24:25.102  INFO 18576 --- [http-nio-4343-exec-5] c.nt.controller.WishOpertionsController  : Method Execution is ended.
+2022-08-17 11:24:25.684  INFO 18576 --- [http-nio-4343-exec-6] c.nt.controller.WishOpertionsController  : Method execution is started.
+2022-08-17 11:24:25.685  INFO 18576 --- [http-nio-4343-exec-6] c.nt.controller.WishOpertionsController  : Method Execution is ended.
+2022-08-17 11:24:26.244  INFO 18576 --- [http-nio-4343-exec-7] c.nt.controller.WishOpertionsController  : Method execution is started.
+2022-08-17 11:24:26.245  INFO 18576 --- [http-nio-4343-exec-7] c.nt.controller.WishOpertionsController  : Method Execution is ended.
+2022-08-17 11:25:18.038  INFO 18576 --- [http-nio-4343-exec-9] c.nt.controller.WishOpertionsController  : Method execution is started.
+2022-08-17 11:25:18.038  INFO 18576 --- [http-nio-4343-exec-9] c.nt.controller.WishOpertionsController  : Method Execution is ended.
+2022-08-17 11:25:21.686  INFO 18576 --- [http-nio-4343-exec-10] c.n.c.MessageOpertionsController         : Method Execution is Started
+2022-08-17 11:25:21.687  INFO 18576 --- [http-nio-4343-exec-10] c.n.c.MessageOpertionsController         : Method Execution is ended
+2022-08-17 11:25:21.909  INFO 18576 --- [http-nio-4343-exec-1] c.n.c.MessageOpertionsController         : Method Execution is Started
+2022-08-17 11:25:21.910  INFO 18576 --- [http-nio-4343-exec-1] c.n.c.MessageOpertionsController         : Method Execution is ended
+2022-08-17 11:25:22.406  INFO 18576 --- [http-nio-4343-exec-2] c.n.c.MessageOpertionsController         : Method Execution is Started
+2022-08-17 11:25:22.407  INFO 18576 --- [http-nio-4343-exec-2] c.n.c.MessageOpertionsController         : Method Execution is ended
+2022-08-17 11:26:59.407  INFO 11556 --- [main] com.nt.MessageApp01ApplicationTests      : Starting MessageApp01ApplicationTests using Java 1.8.0_301 on DESKTOP-7B88PP7 with PID 11556 (started by Narasimhaprasad B in E:\SpringBoot\NTSBMS615\SpringBoot_Rest-MS\MessageApp01)
+2022-08-17 11:26:59.409  INFO 11556 --- [main] com.nt.MessageApp01ApplicationTests      : No active profile set, falling back to 1 default profile: "default"
+2022-08-17 11:27:02.248  INFO 11556 --- [main] com.nt.MessageApp01ApplicationTests      : Started MessageApp01ApplicationTests in 3.283 seconds (JVM running for 6.083)
+2022-08-17 12:12:26.896  INFO 12588 --- [main] com.nt.MessageApp01ApplicationTests      : Starting MessageApp01ApplicationTests using Java 1.8.0_301 on DESKTOP-7B88PP7 with PID 12588 (started by Narasimhaprasad B in E:\SpringBoot\NTSBMS615\SpringBoot_Rest-MS\MessageApp01)
+2022-08-17 12:12:26.902  INFO 12588 --- [main] com.nt.MessageApp01ApplicationTests      : No active profile set, falling back to 1 default profile: "default"
+2022-08-17 12:12:28.907  INFO 12588 --- [main] com.nt.MessageApp01ApplicationTests      : Started MessageApp01ApplicationTests in 2.385 seconds (JVM running for 3.555)
+2022-08-17 12:22:26.596  INFO 9640 --- [main] com.nt.MessageApp01Application           : Starting MessageApp01Application using Java 15.0.2 on DESKTOP-7B88PP7 with PID 9640 (E:\SpringBoot\NTSBMS615\SpringBoot_Rest-MS\MessageApp01\target\classes started by Narasimhaprasad B in E:\SpringBoot\NTSBMS615\SpringBoot_Rest-MS\MessageApp01)
+2022-08-17 12:22:26.601  INFO 9640 --- [main] com.nt.MessageApp01Application           : No active profile set, falling back to 1 default profile: "default"
+2022-08-17 12:22:27.972  INFO 9640 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 4343 (http)
+2022-08-17 12:22:27.989  INFO 9640 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-08-17 12:22:27.989  INFO 9640 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-08-17 12:22:28.160  INFO 9640 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-08-17 12:22:28.161  INFO 9640 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1454 ms
+2022-08-17 12:22:28.770  INFO 9640 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 4343 (http) with context path ''
+2022-08-17 12:22:28.782  INFO 9640 --- [main] com.nt.MessageApp01Application           : Started MessageApp01Application in 2.744 seconds (JVM running for 3.331)
+2022-08-17 12:22:56.428  INFO 9640 --- [http-nio-4343-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-08-17 12:22:56.428  INFO 9640 --- [http-nio-4343-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-08-17 12:22:56.429  INFO 9640 --- [http-nio-4343-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-08-17 12:22:56.458  INFO 9640 --- [http-nio-4343-exec-1] c.n.c.MessageOpertionsController         : Method Execution is Started
+2022-08-17 12:22:56.458  INFO 9640 --- [http-nio-4343-exec-1] c.n.c.MessageOpertionsController         : Method Execution is ended
+2022-08-17 12:23:17.028  INFO 9640 --- [http-nio-4343-exec-2] c.nt.controller.WishOpertionsController  : Method execution is started.
+2022-08-17 12:23:17.029  INFO 9640 --- [http-nio-4343-exec-2] c.nt.controller.WishOpertionsController  : Method Execution is ended.
+2022-08-17 12:25:21.439  INFO 10648 --- [main] com.nt.MessageApp01ApplicationTests      : Starting MessageApp01ApplicationTests using Java 1.8.0_301 on DESKTOP-7B88PP7 with PID 10648 (started by Narasimhaprasad B in E:\SpringBoot\NTSBMS615\SpringBoot_Rest-MS\MessageApp01)
+2022-08-17 12:25:21.441  INFO 10648 --- [main] com.nt.MessageApp01ApplicationTests      : No active profile set, falling back to 1 default profile: "default"
+2022-08-17 12:25:23.450  INFO 10648 --- [main] com.nt.MessageApp01ApplicationTests      : Started MessageApp01ApplicationTests in 2.376 seconds (JVM running for 3.576)
+2022-08-17 12:51:50.215  INFO 18776 --- [main] com.nt.MessageApp01ApplicationTests      : Starting MessageApp01ApplicationTests using Java 1.8.0_301 on DESKTOP-7B88PP7 with PID 18776 (started by Narasimhaprasad B in E:\SpringBoot\NTSBMS615\SpringBoot_Rest-MS\MessageApp01)
+2022-08-17 12:51:50.218  INFO 18776 --- [main] com.nt.MessageApp01ApplicationTests      : No active profile set, falling back to 1 default profile: "default"
+2022-08-17 12:51:52.474  INFO 18776 --- [main] com.nt.MessageApp01ApplicationTests      : Started MessageApp01ApplicationTests in 2.7 seconds (JVM running for 3.881)
+2022-08-17 13:01:41.877  INFO 19508 --- [main] com.nt.MessageApp01Application           : Starting MessageApp01Application using Java 1.8.0_301 on DESKTOP-7B88PP7 with PID 19508 (E:\SpringBoot\NTSBMS615\SpringBoot_Rest-MS\MessageApp01\target\classes started by Narasimhaprasad B in E:\SpringBoot\NTSBMS615\SpringBoot_Rest-MS\MessageApp01)
+2022-08-17 13:01:41.880  INFO 19508 --- [main] com.nt.MessageApp01Application           : No active profile set, falling back to 1 default profile: "default"
+2022-08-17 13:01:43.197  INFO 19508 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 4343 (http)
+2022-08-17 13:01:43.212  INFO 19508 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-08-17 13:01:43.212  INFO 19508 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-08-17 13:01:43.416  INFO 19508 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-08-17 13:01:43.416  INFO 19508 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1461 ms
+2022-08-17 13:01:43.956  INFO 19508 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 4343 (http) with context path ''
+2022-08-17 13:01:43.967  INFO 19508 --- [main] com.nt.MessageApp01Application           : Started MessageApp01Application in 2.587 seconds (JVM running for 3.152)
+2022-08-17 13:02:16.349  INFO 19508 --- [http-nio-4343-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-08-17 13:02:16.354  INFO 19508 --- [http-nio-4343-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-08-17 13:02:16.356  INFO 19508 --- [http-nio-4343-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-08-17 13:02:16.413  INFO 19508 --- [http-nio-4343-exec-2] c.n.c.MessageOpertionsController         : Method Execution is Started
+2022-08-17 13:02:16.414  INFO 19508 --- [http-nio-4343-exec-2] c.n.c.MessageOpertionsController         : Method Execution is ended
+2022-08-17 13:02:28.682  INFO 19508 --- [http-nio-4343-exec-4] c.n.c.MessageOpertionsController         : Method Execution is Started
+2022-08-17 13:02:28.684  INFO 19508 --- [http-nio-4343-exec-4] c.n.c.MessageOpertionsController         : Method Execution is ended
+2022-08-17 13:02:34.828  INFO 19508 --- [http-nio-4343-exec-5] c.nt.controller.WishOpertionsController  : Method execution is started.
+2022-08-17 13:02:34.833  INFO 19508 --- [http-nio-4343-exec-5] c.nt.controller.WishOpertionsController  : Method Execution is ended.
+2022-08-17 13:14:14.875  INFO 11544 --- [main] com.nt.MessageApp01ApplicationTests      : Starting MessageApp01ApplicationTests using Java 1.8.0_301 on DESKTOP-7B88PP7 with PID 11544 (started by Narasimhaprasad B in E:\SpringBoot\NTSBMS615\SpringBoot_Rest-MS\MessageApp01)
+2022-08-17 13:14:14.878  INFO 11544 --- [main] com.nt.MessageApp01ApplicationTests      : No active profile set, falling back to 1 default profile: "default"
+2022-08-17 13:14:17.227  INFO 11544 --- [main] com.nt.MessageApp01ApplicationTests      : Started MessageApp01ApplicationTests in 2.76 seconds (JVM running for 4.293)
