@@ -1,11 +1,13 @@
-# Use an official OpenJDK runtime as a base image
-FROM openjdk:11-jre-slim
+FROM openjdk:11
 
-# Set the working directory within the container
-WORKDIR /app
+MAINTAINER prasad<narasimhaprasad812@gmail.com>
 
-# Copy the Spring Boot application JAR file into the container
-COPY target/MessageApp01.jar  MessageApp01.jar
+COPY target/MessageApp01-0.0.1-SNAPSHOT.jar  /usr/app/
 
-# Specify the command to run when the container starts
-CMD ["java", "-jar", "MessageApp01.jar"]
+WORKDIR /usr/app/
+
+EXPOSE 4343
+
+ENTRYPOINT ["java", "-jar", "MessageApp01-0.0.1-SNAPSHOT.jar"]
+
+
